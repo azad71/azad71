@@ -53,6 +53,7 @@ function setUpSquares() {
 				chance.textContent = "None";
 				messageDisplay.textContent = "Game Over";
 				resetButton.textContent = "Play Again?";
+				changeColor(pickedColor);
 			}
 			else{
 				var clickedColor = this.style.backgroundColor;
