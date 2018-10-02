@@ -1,0 +1,86 @@
+body{
+	background-color: rgba(35,35,35, 0.9);
+	margin: 0;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	background: #17a2b8;
+	margin: 0;
+	font-weight: normal;
+	text-transform: uppercase;
+	padding: 10px 0;
+	line-height: 1.5;
+}
+
+h1 span {
+	font-size: 170%;
+}
+
+#nav {
+	background: white;
+	text-align: center;
+	height: 30px;
+}
+
+button {
+	border: none;
+	background: none;
+	text-transform: uppercase;
+	height: 100%;
+	font-weight: bold;
+	color: steelblue;
+	font-size: inherit;
+	letter-spacing: 1px;
+	outline: none;
+	transition: all .5s;
+}
+
+button:hover, .selected{
+	background: steelblue;
+	color: ghostwhite;
+}
+
+#container{
+	max-width: 800px;
+	margin: 20px auto;
+}
+
+.square{
+	width: 23%;
+	background: purple;
+	padding-bottom: 18%;
+	float: left;
+	margin: 1%;
+	border-radius: 15%;
+	transition: background .6s;
+}
+
+#message{
+	display: inline-block;
+	width: 20%;
+	color: red;
+	font-weight: bolder;
+	letter-spacing: 2px;
+	font-style: italic;
+}
+
+.treasure{
+	background-image: url("treasure.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.danger{
+	background-image: url("skull.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+@media (max-width: 600px) {
+	button{
+		font-size: 11px;
+		letter-spacing: normal;
+	}
+}
