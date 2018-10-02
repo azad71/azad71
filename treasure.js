@@ -10,8 +10,6 @@ var messageDisplay = document.querySelector("#message");
 var h1 = document.querySelector("h1");
 var bannerColor = document.querySelector("#colorDisplay")
 
-
-
 init();
 
 function init() {
@@ -37,18 +35,14 @@ function setUpModeButtons() {
 			else{
 				numOfSquares = 16;
 			}
-
 			resetEverything();
-
 		});
 	}
 }
 
-
 function setUpSquares() {
 	for(var i = 0; i < squares.length; i++) {
 		squares[i].addEventListener("click", function(){
-			
 			if(chanceLeft <= 1) {
 				chance.textContent = "None";
 				messageDisplay.textContent = "Game Over";
@@ -63,17 +57,12 @@ function setUpSquares() {
 					resetButton.textContent = "Play Again?";
 					changeColor(clickedColor);
 				}
-
 				else {
-						// this.classList.add("danger");
-						messageDisplay.textContent = "Wrong!";
-						chanceLeft--;
-						chance.textContent = chanceLeft;
-						
+					messageDisplay.textContent = "Wrong!";
+					chanceLeft--;
+					chance.textContent = chanceLeft;	
 				}
-				
 			}
-		
 		});
 	}
 }
