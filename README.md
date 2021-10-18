@@ -4,4 +4,4 @@
   </a>
 </div>
 
-![Azad wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@azad71&v=2&layout=compact)
+![Language wise time spent since May 6, 2021](https://github-readme-stats.vercel.app/api/wakatime?username=@azad71&v=2&layout=compact)
