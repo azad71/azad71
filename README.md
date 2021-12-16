@@ -5,3 +5,5 @@
 </div>
 
 ![Language wise time spent since May 6, 2021](https://github-readme-stats.vercel.app/api/wakatime?username=@azad71&v=2&layout=compact)
+
+[![Visits Badge](https://badges.pufler.dev/visits/foyzulkarim/foyzulkarim)](https://github.com/azad71)
