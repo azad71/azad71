@@ -7,3 +7,5 @@
 ![Language wise time spent since May 6, 2021](https://github-readme-stats.vercel.app/api/wakatime?username=@azad71&v=2&layout=compact)
 
 [![Visits Badge](https://badges.pufler.dev/visits/azad71/azad71)](https://github.com/azad71)
+
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=azad71&theme=blue-green)
