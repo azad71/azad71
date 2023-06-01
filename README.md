@@ -153,11 +153,11 @@
     </a>
   </div> -->
 
-  <div style="margin-bottom: 20px;">
+<!--   <div style="margin-bottom: 20px;">
     <a href="https://github.com/azad71">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azad71&theme=blue-green" alt="azad71" align="left" />
     </a>
-  </div>
+  </div> -->
 
   <div style="margin-bottom: 20px;">
     <a href="https://github.com/azad71">
