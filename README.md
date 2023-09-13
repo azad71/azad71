@@ -144,7 +144,7 @@
 
 <br />
 
-<!-- ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=azad71&theme=blue-green) -->
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=azad71&theme=blue-green)
 
 <div style="display:flex;flex-direction:row;justify-content:space-between">
   <!-- <div align="center" style="margin-bottom: 20px;">
