@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Md. Abul Hasanat Azad</h1>
-<h3 align="left">I am a passionate software artisan with over 3+ years of professional experience. Over the years, I have developed complex systems for POS, telemedicine, WebRTC, and e-commerce applications. I love building innovative and impactful software that improves the lives of a vast number of people</h3>
+<h3 align="left">I am a passionate software artisan with years of professional experience. Over the years, I have developed complex systems for POS, telemedicine, WebRTC, and e-commerce applications. I love building innovative and impactful software that improves the lives of a vast number of people</h3>
 
 <br />
 <h3 align="left">Connect with me:</h3>
@@ -157,12 +157,13 @@
     <a href="https://github.com/azad71">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azad71&theme=blue-green" alt="azad71" align="left" />
     </a>
-  </div> -->
+  </div>
 
   <div style="margin-bottom: 20px;">
     <a href="https://github.com/azad71">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@azad71&v=2&layout=compact" alt="azad71" align="left" />
     </a>
   </div>
+   -->
 
 </div>
