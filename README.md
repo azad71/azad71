@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Md. Abul Hasanat Azad</h1>
-<h3 align="left">I am a passionate software artisan with years of professional experience. Over the years, I have developed complex systems for POS, telemedicine, WebRTC, and e-commerce applications. I love building innovative and impactful software that improves the lives of a vast number of people</h3>
+<h3 align="left">I am a passionate software artisan with years of professional experience. Over the years, I have developed complex software solutions for enterprise, health care, e-commerce and real time applications. I love building innovative and impactful software that improves the lives of a vast number of people</h3>
 
 <br />
 <h3 align="left">Connect with me:</h3>
